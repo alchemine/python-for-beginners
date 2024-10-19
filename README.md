@@ -14,11 +14,11 @@
 ### 2.4 Python으로 하기 어려운 작업
 
 ## 3. 개발환경 구축
-### 3.1 Python 설치
-### 3.2 가상환경 설치
+### 3.1 Python 설치 및 실행
+### 3.2 Git 설치
 ### 3.3 통합 개발 환경(IDE)
-### 3.4 Jupyter Notebook
-### 3.5 Hello, world!
+### 3.4 Github repository 가져오기
+### 3.5 Jupyter Notebook
 ### 3.6 Pythonic Programming
 
 ## 4. 자료형과 연산자
