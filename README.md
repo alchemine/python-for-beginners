@@ -1,22 +1,21 @@
 # python-for-beginners
-초심자를 위한 Python 학습자료
+초심자를 위한 Python 강의자료
 - 최종 수정일: 2023-05-11
 
 
 # Table Of Contents
 ## 1. 강의 소개
 ### 1.1 강의목표
-### 1.2 강의에서 다루는 영역
-### 1.3 강의에서 다루지 않는 영역
 
 ## 2. Python 소개
-### 2.1 Python의 역사
+### 2.1 Python
 ### 2.2 Python의 장점과 단점
-### 2.3 Python으로 할 수 있는 일
+### 2.3 Python으로 할 수 있는 작업
+### 2.4 Python으로 하기 어려운 작업
 
 ## 3. 개발환경 구축
-### 3.1 Linux / macOS
-### 3.2 Python 및 가상환경 설치
+### 3.1 Python 설치
+### 3.2 가상환경 설치
 ### 3.3 통합 개발 환경(IDE)
 ### 3.4 Jupyter Notebook
 ### 3.5 Hello, world!
