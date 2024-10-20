@@ -1,6 +1,6 @@
 # python-for-beginners
 초심자를 위한 Python 강의자료
-- 최종 수정일: 2023-05-11
+- 최종 수정일: 2024-10-20
 
 
 # Table Of Contents
@@ -18,8 +18,8 @@
 ### 3.2 Git 설치
 ### 3.3 통합 개발 환경(IDE)
 ### 3.4 Github repository 가져오기
-### 3.5 Jupyter Notebook
-### 3.6 Pythonic Programming
+### 3.5 Hello, world!
+### 3.6 Jupyter Notebook
 
 ## 4. 자료형과 연산자
 ### 4.1 숫자형
@@ -69,6 +69,8 @@
 - 초심자를 대상으로 하지만 쉬운 강의는 아님
 - python3.8.16을 기준으로 설명
 - import this, turtle
+
+### Pythonic Programming
 
 # References
 1. [骆昊(jackfrued), (2023, Feb 6). Python-100-Days [master branch]. GitHub. https://github.com/jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
