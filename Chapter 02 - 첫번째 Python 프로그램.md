@@ -63,7 +63,7 @@ IPython 프로그램을 통해 더욱 간편한 편집 및 대화형 기능을 �
 
 ```Python
 """
-Author: alchemine
+**Author**: 骆昊
 """
 # print("Hello, world!")
 print("안녕, 세상!")
