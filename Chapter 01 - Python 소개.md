@@ -57,3 +57,6 @@
 2. 최신 버전의 python을 다운로드하라고 하지만 안정성을 고려하여 이전 버전(`Python 3.12.7`)을 선택합니다. \
     ![alt text](image-2.png)
 3. 자세한 설치과정은 [여기](https://wikidocs.net/8)를 참고
+
+### VSCODE extension 설치: Live Server
+![alt text](image-5.png)
